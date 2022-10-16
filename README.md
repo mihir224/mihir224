@@ -1,4 +1,4 @@
- <h1>Hey 👋, I’m Mihir</h1>
+ <h1>Hey 👋, I’m Mihir Saini</h1>
  
  
 - I'm a MERN Stack Developer 💻 with a deep interest in Web 3 
