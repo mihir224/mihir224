@@ -21,7 +21,7 @@
 📫 Feel free to reach out and connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/mihir-saini-3680a481/)
-- [Portfolio](https://drive.google.com/file/d/1lV4Yt5JDlnf1W5Zey7upNw9q79kf93ty/view?usp=drive_link)
+- [Portfolio](https://drive.google.com/file/d/135Iwqxn0Q8_-nHahP0bpxISduf5Pe3FA/view?usp=sharing)
 - [Website (old version)](https://mihir224.github.io/PersonalPortfolio.html)
 
 Let's collaborate and create something awesome together! 😄
