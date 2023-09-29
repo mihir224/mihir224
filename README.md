@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub profile! I'm a passionate MERN Stack Developer with a deep interest in web.
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 - 💼 Currently working on building and enhancing web applications with the MERN stack.
 - 🌱 I'm always learning and improving my skills, with a focus on mastering React and its ecosystem.
 - 🔭 Exploring various technologies and tools to keep up with the ever-evolving web development landscape.
