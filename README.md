@@ -13,7 +13,6 @@
 - Developing interactive and responsive front-end user interfaces with React.
 - Creating RESTful APIs using Express.js and Node.js for seamless back-end functionality.
 - Collaborating with peers to build meaningful and impactful projects.
-- Recently, I have began my journey exploring the ML space.
 
 🌟 I'm actively looking forward to contributing to open source projects. I believe in giving back to the community that has helped me grow as a developer.
 
