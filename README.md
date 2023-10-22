@@ -21,6 +21,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/mihir-saini-3680a481/)
 - [Portfolio](https://drive.google.com/file/d/135Iwqxn0Q8_-nHahP0bpxISduf5Pe3FA/view?usp=sharing)
-- [Website (old version)](https://mihir224.github.io/PersonalPortfolio.html)
 
 Let's collaborate and create something awesome together! 😄
