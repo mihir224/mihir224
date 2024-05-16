@@ -19,6 +19,6 @@ I'm actively looking forward to contributing to open source projects. I believe 
   Feel free to reach out and connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/mihir-saini-3680a481/)
-- [Portfolio](https://drive.google.com/file/d/135Iwqxn0Q8_-nHahP0bpxISduf5Pe3FA/view?usp=drive_link)
+- [Portfolio](https://mihirsaini.netlify.app)
 
 Let's collaborate and create something awesome together! 
